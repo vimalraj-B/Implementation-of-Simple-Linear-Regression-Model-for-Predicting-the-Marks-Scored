@@ -83,8 +83,45 @@ print("RMSE = ",rmse)
 
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+```
+DATASET:
+```
+![Screenshot 2025-04-29 084028](https://github.com/user-attachments/assets/1b371170-f610-409b-94db-0baf6784d37f)
+
+```
+HEAD VALUES:
+```
+![Screenshot 2025-04-29 084159](https://github.com/user-attachments/assets/121bec67-2615-4428-b227-b1b0d5f56246)
+```
+TAIL VALUES:
+```
+![Screenshot 2025-04-29 084257](https://github.com/user-attachments/assets/772d13dc-4d8d-4581-ad87-c74dcecaeaa5)
+```
+X AND Y VALUES:
+```
+![Screenshot 2025-04-29 084410](https://github.com/user-attachments/assets/528bafc7-efbe-4f4b-87ae-2ed5435f9a1b)
+![Screenshot 2025-04-29 084443](https://github.com/user-attachments/assets/c17742d3-0240-4ae2-8fa3-4476488f3e85)
+```
+PREDICTION VALUES OF X AND Y:
+```
+![Screenshot 2025-04-29 084600](https://github.com/user-attachments/assets/1d02585a-3e5a-4143-a590-b178b88c3466)
+![Screenshot 2025-04-29 084626](https://github.com/user-attachments/assets/3982ac3c-da87-4882-905a-539fa9c945d3)
+```
+MSE,MAE and RMSE:
+```
+![Screenshot 2025-04-29 084721](https://github.com/user-attachments/assets/0a4c37fc-39ed-4044-ac84-a889331bef05)
+```
+TRAINING SET:
+```
+![Screenshot 2025-04-29 084812](https://github.com/user-attachments/assets/0614f085-0707-4271-ab2f-02eb276608cd)
+```
+TESTING SET:
+```
+![Screenshot 2025-04-29 084845](https://github.com/user-attachments/assets/21138c8c-fd08-421e-b741-bac4787a5a99)
 
 
-## Result:
+
+```
+RESULT:
+```
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
